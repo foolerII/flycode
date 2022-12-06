@@ -10,7 +10,6 @@ import java.util.List;
  * 注意：答案中不可以包含重复的三元组。
  * 来源：力扣（LeetCode）
  * 链接："https://leetcode.cn/problems/3sum"
- * @author 吴娇娇
  */
 public class LC15_3Sum {
     public static void main(String[] args) {
