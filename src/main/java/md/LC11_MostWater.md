@@ -3,7 +3,7 @@
 * 来源：力扣（LeetCode）
 * 链接：https://leetcode.cn/problems/container-with-most-water
 
-![图示](D:\dudu\flyfly\source\question_11.jpg)
+![图示](../../../../source/question_11.jpg)
 
 **思路：抓住一点：水的容量，总是被最低挡板的高度所限制**
 1. 在双指针的思路基础上
